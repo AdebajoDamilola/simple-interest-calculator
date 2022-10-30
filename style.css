@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+    
+}
+
+h1 {
+    color: grey;
+    font-family: verdana;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    align-self: center;
+}
+#principal{
+    margin-bottom: 20px;
+}
+#rate{
+    margin-bottom: 20px;
+}
+#years{
+    margin-bottom: 20px;
+}
+#compute-interest{
+    margin-bottom: 20px;
+    background-color: rgb(39, 148, 250);
+    border-radius: 6px;
+}
+footer{
+    margin-top: 20px;
+}
